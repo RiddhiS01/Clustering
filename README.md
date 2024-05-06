@@ -1,4 +1,4 @@
-# Clustering
+# k-means Clustering analysis
 Comprehending the dynamic relationship between health indices and economic elements in diverse places can provide policymakers with crucial perspectives for optimising resource allocation and executing focused interventions. Our goal in doing this study is to investigate how health and economic situations relate to one another across different states in a nation. By grouping states according to economic and health metrics, we aim to find unique clusters of areas with related features. These clusters can then be used as a foundation for customising policy actions to deal with the unique requirements and difficulties that various regions encounter.
 
 Goals of the Analysis
